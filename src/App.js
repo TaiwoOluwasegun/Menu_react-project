@@ -37,7 +37,7 @@ function App() {
         {text.map((item, index) => {
           return (
             <p key="index">
-              {item}
+              {item}...
             </p>
           )
         })}
